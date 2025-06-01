@@ -1,35 +1,41 @@
-# 🚀 Roblox Auto Private Link Joiner — Discord Based
+# Oracle's Roblox Auto Joiner (Visual Studio 2022 Edition)
 
-Welcome to the **Roblox Auto Joiner**, a simple but powerful script that gets you into a Roblox game **automatically** through a **Discord channel**.
+The fastest Roblox private server joiner available!
 
-## 🛠️ Setup
+## Features
 
-1. **[⬇️ Download and extract the V1.0.0 ZIP](https://github.com/oracle-dsc/roblox-autolink-joiner/releases/download/V1.0.0/V1.0.0.zip)
- file containing the exe and the config.json or manually build the exe**
+- Automatically detects and joins Roblox private server links from Discord
+- Sleek UI with status indicators
+- Made by Oracle
 
-2. **Fill out the `config.json`:**  
-   Add your Discord Token, the Guild ID (server id), and the Discord channel id.
+## Setup
 
-3. **Launch the script:**  
-   Just run the script and press **Enter**.
+1. Edit the `config.json` file in the parent directory with your:
+   - Discord user token
+   - Guild ID (server ID)
+   - Channel ID
 
-4. **Open Roblox (It's faster if the Roblox App is already opened.**
+2. Open the solution in Visual Studio 2022
+   - Open OracleRobloxJoiner.sln
+   - Select Release configuration and x64 platform
+   - Build the solution (F7 or Build > Build Solution)
 
-5. **Wait until they send a private server link... and BOOM you're in.**  
-   The script handles everything else. Sit back and let the magic happen.
+3. Run the application
+   - The executable will be in x64/Release folder
 
-## 💬 How It Works
+## Requirements
 
-- Listens to a **specific Discord channel** for private server links or game invites.
-- Automatically grabs the game link and uses the roblox app to get in.
-- Lightweight, fast, and easy to use, it's in cpp one of the fastest programming languages
+- Windows operating system
+- Visual Studio 2022
+- Roblox installed
+- Discord user token (NOT a bot token)
 
-## ⚠️ Disclaimer
+## Usage
 
-> This tool is intended for **educational purposes** and **personal use only**.  
-> Misuse may lead to a violation of Roblox's and Discord's Terms of Service.  
-> Use at your own risk.
+1. Launch the application
+2. Press ENTER to start monitoring
+3. The program will automatically detect and join any Roblox private server links posted in the monitored channel
 
-## 🔗 Stay Updated
+## Credits
 
-Coming soon: NOTHING it's just a link joiner what do you expect, but if you need contact me for assistance: **oracledsc** on Discord
+Made by Oracle - Fastest Roblox Private Server Joiner
