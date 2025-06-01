@@ -1,4 +1,4 @@
-# 🚀 Roblox Auto Link Joiner — Discord Based
+# 🚀 Roblox Auto Private Link Joiner
 
 Welcome to the **Roblox Auto Joiner**, a simple but powerful script that gets you into a Roblox Private Server **automatically** through a **Discord channel**.
 
