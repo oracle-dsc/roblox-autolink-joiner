@@ -4,7 +4,7 @@ Welcome to the **Roblox Auto Joiner**, a simple but powerful script that gets yo
 
 ## 🛠️ Setup
 
-1. **[⬇️ Download and extract the V1.0.0 ZIP](https://github.com/oracle-dsc/roblox-autolink-joiner/releases/download/V1.0.0/V1.0.0.zip) file containing the exe and the config.json or manually build the exe**
+1. **[⬇️ Download the V1.0.0 ZIP](https://github.com/oracle-dsc/roblox-autolink-joiner/releases/download/V1.0.0/V1.0.0.zip) file containing the exe and the config.json or manually build the exe**
 
 2. **Fill out the `config.json`:**  
    Add your Discord Token, the Guild ID (server id), and the Discord channel id.
