@@ -12,7 +12,7 @@ Welcome to the **Roblox Auto Joiner**, a simple but powerful script that gets yo
 3. **Launch the script:**  
    Just run the script and press **Enter**.
 
-4. **Open Roblox (It's faster if the Roblox App is already opened.**
+4. **Open Roblox (It's faster if the Roblox App is already opened).**
 
 5. **Wait until they send a private server link... and BOOM you're in.**  
    The script handles everything else. Sit back and let the magic happen.
@@ -32,3 +32,4 @@ Welcome to the **Roblox Auto Joiner**, a simple but powerful script that gets yo
 ## 🔗 Stay Updated
 
 Coming soon: NOTHING it's just a link joiner what do you expect, but if you need contact me for assistance: **oracledsc** on Discord
+
